@@ -1,0 +1,5 @@
+$kind: http-request
+description: ""
+url: 127.0.0.1:5000/movies/1
+method: GET
+order: 677799544347954
